@@ -9,6 +9,6 @@
 
 The following image shows the web application's appearance and functionality:
 
-(./assets/melissaigy.github.io_Work-Day-Scheduler-App_.png)
+![The Work Day Scheduler features time blocks from 9-5 to schedule events.](./assets/melissaigy.github.io_Work-Day-Scheduler-App_.png)
 
 Link to webpage: https://melissaigy.github.io/Work-Day-Scheduler-App/
